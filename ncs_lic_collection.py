@@ -2,7 +2,7 @@
 """
 ncs540_license_summary.py
 
-Connects to a list of Cisco NCS540 (IOS-XR) nodes via SSH, runs
+Connects to a list of Cisco NCS (IOS-XR) nodes via SSH, runs
 "show license platform summary" on each, parses the entitlement
 counts, and prints per-node results plus grand totals.
 
