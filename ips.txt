@@ -1,0 +1,2 @@
+# One IP or hostname per line. Lines starting with # are ignored.
+192.168.0.1
